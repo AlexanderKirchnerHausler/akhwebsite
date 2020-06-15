@@ -17,3 +17,10 @@
   padding-right: 1rem;
   margin: 0 auto;
 }
+
+html {
+    zoom: 0.2; /* Old IE only */
+    -moz-transform: scale(0.2);
+    -webkit-transform: scale(0.2);
+    transform: scale(0.2);
+}
