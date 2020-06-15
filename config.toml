@@ -10,11 +10,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
     url = "/about"
 	
-#[[menu.main]]
-    #name = "Blog"
-    #weight = 2
-    #url = "/post/"
+[[menu.main]]
+    name = "Project"
+    weight = 2
+    url = "https://honorlogic.org"
 	
 [params]
-  description = "Cultural Psychology, Emotion, Relationships"
+  description = "Culture, Emotion, Relationships"
   themeColor = "theme-base-08"
