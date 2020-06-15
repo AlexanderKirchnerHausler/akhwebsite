@@ -1,0 +1,20 @@
+theme = "hyde"
+baseURL = "/"
+defaultContentLanguage = "UTF-8"
+languageCode = "UTF-8"
+title = "Alexander Kirchner-Häusler"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about"
+	
+#[[menu.main]]
+    #name = "Blog"
+    #weight = 2
+    #url = "/post/"
+	
+[params]
+  description = "Cultural Psychology, Emotion, Relationships"
+  themeColor = "theme-base-08"

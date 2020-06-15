@@ -1,0 +1,63 @@
+---
+title: 'Hajime no Ippo x Bayes: The importance of priors'
+author: Alexander Kirchner-Häusler
+date: '2020-05-13'
+slug: hajime-no-ippo-x-bayes-the-importance-of-priors.UTF-8
+categories: []
+tags:
+  - R
+  - Bayesian
+  - HnI
+Categories:
+  - Development
+  - GoLang
+Description: ''
+Tags:
+  - Development
+  - golang
+---
+
+### Ippo fights Bayesian
+
+```{r}
+
+library(readr)
+Ippo_record <- read_csv("C:/Users/Alex Kirchner/Desktop/Work/G_PersonalWebsite/data/Ippo_fights_Bayesian.csv", 
+                        col_types = cols(Date = col_date(format = "%m/%d/%Y"), 
+                                         Number = col_integer(), Record = col_character(), 
+                                         Result = col_factor(levels = c("WIN", 
+                                                                        "LOSS")), Type = col_factor(levels = c("TKO", 
+                                                                                                               "KO"))))
+Ippo_record <- Ippo_record[!is.na(Ippo_record$Number),]
+
+# Grid Approximation
+p_grid <- seq( from=0 , to=1 , length.out=1000 )
+plot(p_grid, type = "line")
+
+prob_p_unif_low <- ifelse(p_grid < 0.5,1,0) # Uniform Prio low
+plot(prob_p_unif_low, type = "line", x = p_grid)
+prob_p_unif_high<- ifelse(p_grid > 0.5,1,0) # Uniform Prio low
+prob_p_gauss_low <- dnorm(p_grid, 0.1, 0.1) # Gaussian Prior low
+plot(prob_p_gauss_low, type = "line", x = p_grid)
+prob_p_gauss_high <- dnorm(p_grid, 0.9, 0.1) # Gaussian Prior high
+plot(prob_p_gauss_high, type = "line", x = p_grid)
+
+wins <- sum(Ippo_record$Result=="WIN")
+
+prob_data <- dbinom( 23 , size=26 , prob=p_grid )
+plot(prob_data, type = "line", x = p_grid)
+
+posterior <- prob_data * prob_p_gauss_high
+posterior <- posterior / sum(posterior)
+plot(posterior, type = "line", x = p_grid)
+
+
+
+
+
+
+
+
+
+
+```

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLang on Alexander Kirchner-Häusler</title>
+    <link>/categories/golang/</link>
+    <description>Recent content in GoLang on Alexander Kirchner-Häusler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hajime no Ippo x Bayes: The importance of priors</title>
+      <link>/post/hajime-no-ippo-x-bayes-the-importance-of-priors.utf-8/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hajime-no-ippo-x-bayes-the-importance-of-priors.utf-8/</guid>
+      <description>Ippo fights Bayesianlibrary(readr)Ippo_record &amp;lt;- read_csv(&amp;quot;C:/Users/Alex Kirchner/Desktop/Work/G_PersonalWebsite/data/Ippo_fights_Bayesian.csv&amp;quot;, col_types = cols(Date = col_date(format = &amp;quot;%m/%d/%Y&amp;quot;), Number = col_integer(), Record = col_character(), Result = col_factor(levels = c(&amp;quot;WIN&amp;quot;, &amp;quot;LOSS&amp;quot;)), Type = col_factor(levels = c(&amp;quot;TKO&amp;quot;, &amp;quot;KO&amp;quot;))))Ippo_record &amp;lt;- Ippo_record[!is.na(Ippo_record$Number),]# Grid Approximationp_grid &amp;lt;- seq( from=0 , to=1 , length.out=1000 )plot(p_grid, type = &amp;quot;line&amp;quot;)## Warning in plot.xy(xy, type, ...): plot type &amp;#39;line&amp;#39; will be truncated to first## characterprob_p_unif_low &amp;lt;- ifelse(p_grid &amp;lt; 0.</description>
+    </item>
+    
+  </channel>
+</rss>
