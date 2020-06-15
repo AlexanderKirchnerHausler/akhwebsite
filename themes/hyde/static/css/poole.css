@@ -51,7 +51,6 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  transform: scale(0.8);
 }
 @media (min-width: 38em) {
   html {
@@ -62,9 +61,9 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-          text-size-adjust: 100%;
+  -webkit-text-size-adjust: 80%;
+      -ms-text-size-adjust: 80%;
+          text-size-adjust: 80%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
