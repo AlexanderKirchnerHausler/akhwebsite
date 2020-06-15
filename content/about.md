@@ -11,13 +11,13 @@ relationships and interactions with others around us, and particularly focuses o
 of being and relating (e.g. cultures of honor). 
 
 My doctoral thesis *The Relationality of Feelings: A cultural comparison of affective patterns in Western and East-Asian relationships"* has 
-been shortlisted for the Triandis Doctoral Thesis Award of the International Association of Cross-Cultural Psychology.  
+been awarded the Triandis Doctoral Thesis Award 2020 of the International Association of Cross-Cultural Psychology.  
 &nbsp;
 &nbsp;
 ### PUBLICATIONS
 ---
 
-**Kirchner, A.**, Boiger, M., Uchida, Y., Norasakkunkit, V., Verduyn, P., & Mesquita, B. (2018). Humiliated fury is not universal: the co-occurrence of anger and shame in the United States and Japan. *Cognition and Emotion, 32(6)*, 1317-1328.
+**Kirchner, A.**, Boiger, M., Uchida, Y., Norasakkunkit, V., Verduyn, P., & Mesquita, B. (2018). Humiliated fury is not universal: the co-occurrence of anger and shame in the United States and Japan. *Cognition and Emotion, 32(6)*, 1317-1328. https://doi.org/10.1080/02699931.2017.1414686
 
 Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, Uchida, Y., & Mesquita, B. (2020). Cultural Differences in Emotion Suppression in Belgian and Japanese Couples: A Social Functional Model. *Frontiers in Psychology, 11*, 1048. https://doi.org/10.3389/fpsyg.2020.01048
 
