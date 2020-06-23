@@ -18,3 +18,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   description = "Culture, Emotion, Relationships"
   themeColor = "theme-base-08"
+  layoutReverse = true
