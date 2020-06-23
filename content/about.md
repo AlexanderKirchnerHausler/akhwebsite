@@ -6,13 +6,12 @@ dontshowdate: "true"
 &nbsp;
 ### ABOUT ME
 ---
-I am a post-doctoral researcher in Cultural Psychology at the University of Kent. My work explores the many dynamic ways culture is reproduced in our 
-relationships and interactions with others around us, and particularly focuses on the important role of emotions in supporting cultural systems 
-of being and relating (e.g. cultures of honor). 
+I am a post-doctoral researcher in Cultural Psychology at the [University of Kent](https://www.kent.ac.uk/psychology/people/2773/kirchner-alexander), and an affiliate researcher at the [KU Leuven](https://ppw.kuleuven.be/cscp/people/00098908). My work explores the many dynamic ways culture is reproduced in our relationships and interactions with others around us, and particularly focuses on the important role of emotions in supporting cultural systems of being and relating (e.g. cultures of honor). 
 
-My doctoral thesis *The Relationality of Feelings: A cultural comparison of affective patterns in Western and East-Asian relationships"* has 
-been awarded the Triandis Doctoral Thesis Award 2020 from the International Association of Cross-Cultural Psychology.  
-&nbsp;
+My doctoral thesis *The Relationality of Feelings: A cultural comparison of affective patterns in Western and East-Asian relationships* has been awarded the Triandis Doctoral Thesis Award 2020 from the International Association of Cross-Cultural Psychology.  
+
+You can also find me on [Twitter](https://twitter.com/KirchnerHausler) and on [Researchgate](https://www.researchgate.net/profile/Alexander_Kirchner_Haeusler2?ev=hdr_xprf&_sg=1_umsskRDfOXbyBJVefOrV40cm7JLK5Wt2wJDgEJaXjDseKC0hega-L930v0ljD-vusFY90V5qhoxJ19KxKH05Je). 
+
 &nbsp;
 ### PUBLICATIONS & SUBMISSIONS
 ---
