@@ -10,7 +10,7 @@ I am a post-doctoral researcher in Cultural Psychology at the [University of Ken
 
 My doctoral thesis *The Relationality of Feelings: A cultural comparison of affective patterns in Western and East-Asian relationships* has been awarded the Triandis Doctoral Thesis Award 2020 from the International Association of Cross-Cultural Psychology.  
 
-You can find my CV [here](https://github.com/AlexanderKirchnerHausler/akhwebsite/blob/master/public/Curriculum%20Vitae_Alexander%20Kirchner%20Hausler_June%202020.pdf).You can also find me on [Twitter](https://twitter.com/KirchnerHausler) and on [Researchgate](https://www.researchgate.net/profile/Alexander_Kirchner_Haeusler2?ev=hdr_xprf&_sg=1_umsskRDfOXbyBJVefOrV40cm7JLK5Wt2wJDgEJaXjDseKC0hega-L930v0ljD-vusFY90V5qhoxJ19KxKH05Je). 
+You can find my CV [here](https://github.com/AlexanderKirchnerHausler/akhwebsite/blob/master/static/files/Curriculum%20Vitae_Alexander%20Kirchner%20Hausler_June%202020.pdf).You can also find me on [Twitter](https://twitter.com/KirchnerHausler) and on [Researchgate](https://www.researchgate.net/profile/Alexander_Kirchner_Haeusler2?ev=hdr_xprf&_sg=1_umsskRDfOXbyBJVefOrV40cm7JLK5Wt2wJDgEJaXjDseKC0hega-L930v0ljD-vusFY90V5qhoxJ19KxKH05Je). 
 
 &nbsp;
 ### PUBLICATIONS & SUBMISSIONS
