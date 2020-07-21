@@ -19,7 +19,7 @@ You can also find me on [Twitter](https://twitter.com/KirchnerHausler) and on [R
 
 **Kirchner-Häusler, A.**, Boiger, M., Uchida, Y., Higuchi, A., Uchida, Y., & Mesquita, M. (2020). *“Relatively Happy”: ratios of positive & negative affect and relationship satisfaction in two cultural contexts.* Manuscript submitted to the Journal of Cross-Cultural Psychology. 
 
-Boiger, M., **Kirchner-Häusler, A.**, Schouten, A., Uchida, Y., & Mesquita, M. (2020). *Different Bumps in the Road: The Emotional Dynamics of Couple Disagreements in Belgium and Japan*. Manuscript submitted to Emotion.
+Boiger, M., **Kirchner-Häusler, A.**, Schouten, A., Uchida, Y., & Mesquita, M. (2020). *Different Bumps in the Road: The Emotional Dynamics of Couple Disagreements in Belgium and Japan*. Manuscript accepted in Emotion.
 
 Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, Uchida, Y., & Mesquita, B. (2020). Cultural Differences in Emotion Suppression in Belgian and Japanese Couples: A Social Functional Model. *Frontiers in Psychology, 11*, 1048. https://doi.org/10.3389/fpsyg.2020.01048
 
