@@ -34,3 +34,6 @@ Braun, S., Bark, A. H., **Kirchner, A.**, Stegmann, S., & van Dick, R. (2015). E
 **Kirchner-Häusler, A.**, Boiger, M., Ozcanli, F., Uchida, Y., & Mesquita, M. (2019). *Different Bumps to Adulthood: Emotion Dynamics in Belgian and Japanese Mother-Daughter Interactions*. Manuscript in preparation. 
 
 **Kirchner-Häusler, A.**, Boiger, M., Uchida, Y., & Mesquita, M. (2019). *We move, We Stay, Together: Interpersonal patterns of affect in Belgium and Japan*. Manuscript in preparation. 
+
+Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, & Mesquita, B. (2020). Interpersonal Emotions: The Role of Culture. In De Leersnyder, J. (Eds.), *How Cultural Differences in Emotions comes about*. Forthcoming.  
+
